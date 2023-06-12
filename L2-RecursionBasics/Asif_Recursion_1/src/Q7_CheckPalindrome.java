@@ -5,7 +5,7 @@ public class Q7_CheckPalindrome {
 //Output: true
 //Explanation: "amanaplanacanalpanama" is a palindrome.
 
-//    Hint :- First Remove all the space and special characters;
+//   Hint :- First Remove all the space and special characters;
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         String str = s.next();
